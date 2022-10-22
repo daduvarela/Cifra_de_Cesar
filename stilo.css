@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(104, 194, 194);
+}
+
+p{
+    font-size: 50px;
+}
+#textocifrado{
+    width: 300px;
+    height: 100px;
+}

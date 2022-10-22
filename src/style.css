@@ -1,0 +1,38 @@
+body{
+  background: #248fa1;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align:center;
+  font-size:136%;
+  width: 99%;
+  top: 93%;
+  margin-bottom: 93
+  }
+
+#texto{
+  font:20px Arial, Sans-serif;
+  text-align: center;
+  width:400px;
+  height:25px;
+  border: 1px
+  solid #ffffff;
+  }
+
+#deslocamento{
+  text-align: center;
+  width:131px;
+  height:18px;
+  border: 1px
+  solid #ffffff;
+}
+
+#textocifrado{
+  text-align: center;
+  font:28px Arial, Sans-serif;
+  line-height:50px;
+  width:400px;
+  height:70px;
+  border: 1px
+  solid #ffffff;
+}
